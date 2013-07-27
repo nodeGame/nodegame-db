@@ -1,4 +1,3 @@
-nodegame-db
-===========
+# nodegame-db
 
-Abstract DB interface for nodeGame
+For documentation please check the root [nodeGame](https://github.com/nodeGame/nodegame) repo.
