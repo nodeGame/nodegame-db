@@ -9,4 +9,4 @@
  * 
  */
 
-module.exports.Database = require('./lib/DB.js');
+module.exports.Database = require('./lib/Database.js');
