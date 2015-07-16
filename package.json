@@ -11,8 +11,7 @@
     }
   , "dependencies": {
     }
-  , "engines": { "node": ">= 0.4.0" }
-  , "licenses": [
-    { "type": "MIT" }
+  , "engines": { "node": ">= 0.10.0" }
+  , "license": "MIT"
   ]
 }
